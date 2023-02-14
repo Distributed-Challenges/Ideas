@@ -1,4 +1,4 @@
-# Ideas
+# Challenge Ideas
 
 
-Contribute your ideas using the template below
+## Contribute your ideas using the template below
